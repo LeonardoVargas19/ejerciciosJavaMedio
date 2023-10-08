@@ -1,7 +1,7 @@
 package com.intermiedo;
 
 import java.util.Scanner;
-
+/* Calcular factorial utilizando recursividad */
 public class Ejercicio27 {
 
     public static int calcularFactorial(int numero){
